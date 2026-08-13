@@ -8,6 +8,7 @@ LinkedIn: [https://www.linkedin.com/in/sankate/](https://www.linkedin.com/in/san
 Engineering leader with 20+ years building and operating scalable, high-reliability distributed systems — across
 payments/fintech and, most recently, ML-powered ads at Meta. Track record of five-nines operational excellence,
 scaling orgs to 200+ engineers, and shipping ML-driven consumer products end to end.
+
 *Core strengths*: Distributed systems at scale · Operational excellence (on-call, incident response, SLA/SLO,
 reliability) · ML-powered product delivery · Security, privacy & compliance · Building and growing high-performing
 engineering teams.
