@@ -13,7 +13,13 @@ Engineering leader with 20+ years building and operating scalable, high-reliabil
 
 #### Engineering Leader at Meta Inc. (Jun 2022 – Present) — Austin, TX / Menlo Park, CA
 
-- 
+- Hands-on engineering leader managing 10+ member team building ML/AI-powered ad creation, targeting, and ranking systems serving 100's of millions of daily impressions with five-nines availability.
+
+- Led 0→1 AI products, including an LLM-powered advertiser response system, while driving AI-native engineering practices that reduced experimentation cycle time by ~25%.
+
+- Own engineering strategy, roadmap, hiring, budgeting, and global product delivery, partnering closely with product, ML, data science, privacy, legal, and compliance.
+
+
 
 
 
