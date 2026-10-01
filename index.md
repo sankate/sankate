@@ -13,15 +13,7 @@ Engineering leader with 20+ years building and operating scalable, high-reliabil
 
 #### Engineering Leader at Meta Inc. (Jun 2022 – Present) — Austin, TX / Menlo Park, CA
 
-- Hands-on engineering manager leading a team of 18 (engineers, engineering managers, and tech leads), including ML engineers and a data scientist, owning ad creation (advertiser experience) and ad delivery products powered by ML/AI for personalization, targeting, and ranking.
-- Own the full lifecycle of ML-powered ranking and targeting services — integration, serving, monitoring, and iteration — operating at 500M+ daily ad impressions with five-nines availability targets.
-- Launched an LLM-powered advertiser auto-reply product generating context-aware responses to off-hours consumer inquiries — scoped to verified business context with explicit guardrails preventing pricing quotes, scheduling, or payment commitments, and cleared with privacy on consumer data handling. A gated experiment showed a significant lift in qualified leads for service businesses over static auto-replies.
-- Took that concept from hypothesis to live experiment in one week — roughly 3x the team's normal delivery baseline — using Gen AI tooling end to end for feasibility analysis, product spec, UI prototyping, and implementation, without diverting committed roadmap capacity.
-- Drove adoption of AI-native engineering practices across an 18-person org, establishing hands-on patterns for spec generation, prototyping, and implementation with Gen AI tooling — 5+ projects shipped this way, cutting experimentation cycle time by about 25%.
-- Built 0→1 product ideas and grew them globally into multi-million-dollar revenue streams.
-- Partnered closely with privacy, legal, and compliance teams to launch products across multiple international markets, navigating jurisdiction-specific regulatory and data-handling requirements.
-- Drove product decisions through large-scale experimentation and A/B testing; established processes and SLAs to support high-value advertisers and business-critical customers.
-- Own annual planning, budgeting, hiring, and organizational design; set engineering strategy and roadmap, and drive cross-functional partnerships across product, ML, data science, and legal/privacy.
+- 
 
 
 
